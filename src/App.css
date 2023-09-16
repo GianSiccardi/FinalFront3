@@ -1,0 +1,10 @@
+.light {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  /* Estilos para el tema "dark" */
+ .dark {
+    background-color: #333;
+    color: #fff;
+  }
